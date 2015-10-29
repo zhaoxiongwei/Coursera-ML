@@ -1,4 +1,4 @@
-Coursera-ML  -copy by zhaoxiongwei111@gmail.com
+Coursera-ML  
 ===========
 
 Exercises of Machine Learning Course taught by Prof. Andrew Ng on Coursera.   --- 2013.11.09
